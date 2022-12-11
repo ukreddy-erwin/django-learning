@@ -14,3 +14,7 @@ python manage.py runserver 0.0.0.0:8000
 
 python manage.py makemigrations profiles_api
 python manage.py migrate
+
+python manage.py createsuperuser
+
+http://127.0.0.1/admin
