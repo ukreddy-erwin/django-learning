@@ -1,0 +1,5 @@
+**/__pycache__
+**/*.log
+**/migrations
+**/__init__.py
+.vagrant
